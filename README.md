@@ -6,6 +6,8 @@ A tool inspired by popular unlock tools, with **ADB, Fastboot, Flash, Root, DM-V
 ---
 
 ## ✨ Features
+### Credits
+- Made By @Oliverso17
 
 ### 📱 Device & Status
 - Detect connected devices
@@ -62,8 +64,5 @@ If your device shows **“DM-Verity Corruption”**, use this method:
 ### Command used:
 ```bash
 fastboot oem cdms fix
-### Credits
-made by oliverso17 alone "im not gonna sell this program just for one milion"
-
 fastboot erase cache
 fastboot reboot
